@@ -1,0 +1,1 @@
+<?php namespace App\Models; use Illuminate\Database\Eloquent\Model; class PpdbSetting extends Model { protected $guarded=[]; protected $casts=['registration_start'=>'date','registration_end'=>'date']; }

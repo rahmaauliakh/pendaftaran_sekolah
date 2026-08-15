@@ -1,0 +1,1 @@
+<h1>Bukti Pendaftaran PPDB SMP Budi Luhur</h1><p>Nomor: <b>{{ $applicant->registration_number }}</b></p><p>Nama: {{ $applicant->full_name }}</p><p>Asal Sekolah: {{ $applicant->origin_school }}</p><p>Status: {{ $applicant->status }}</p><script>window.print()</script>
